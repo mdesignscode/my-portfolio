@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.6a2d4e8a.css",
-    "main.js": "/my-portfolio/static/js/main.d5ab6d0d.js",
+    "main.css": "/my-portfolio/static/css/main.39a422a8.css",
+    "main.js": "/my-portfolio/static/js/main.1b05c782.js",
     "static/js/787.128fc6e9.chunk.js": "/my-portfolio/static/js/787.128fc6e9.chunk.js",
     "static/media/Pragmatica-ExtraLight.woff": "/my-portfolio/static/media/Pragmatica-ExtraLight.863ad7e5cbf277d85c84.woff",
     "static/media/coolvetica-rg.woff": "/my-portfolio/static/media/coolvetica-rg.8c7b245f7c71e4e94152.woff",
@@ -9,12 +9,12 @@
     "static/media/logo-m-large.png": "/my-portfolio/static/media/logo-m-large.a25b052838e5cae6f14b.png",
     "static/media/logo-m.png": "/my-portfolio/static/media/logo-m.4ef5759e3db5aab23107.png",
     "index.html": "/my-portfolio/index.html",
-    "main.6a2d4e8a.css.map": "/my-portfolio/static/css/main.6a2d4e8a.css.map",
-    "main.d5ab6d0d.js.map": "/my-portfolio/static/js/main.d5ab6d0d.js.map",
+    "main.39a422a8.css.map": "/my-portfolio/static/css/main.39a422a8.css.map",
+    "main.1b05c782.js.map": "/my-portfolio/static/js/main.1b05c782.js.map",
     "787.128fc6e9.chunk.js.map": "/my-portfolio/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6a2d4e8a.css",
-    "static/js/main.d5ab6d0d.js"
+    "static/css/main.39a422a8.css",
+    "static/js/main.1b05c782.js"
   ]
 }
